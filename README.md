@@ -1,2 +1,2 @@
 # Wave-music-controller
-asdasdasd
+A Listen-along spotify web player created with Python Django
